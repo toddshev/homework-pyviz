@@ -1,3 +1,5 @@
+## PyViz Plots for San Francisco
+
 ### Calculations, plot configurations, and development code can be found in the rental_analysis.ipynb notebook
 ### Functions to call and return the plots, as well as making them servable are found in the dashboard.ipynb notebook
 ### You will NOT be able to render the neighborhood map unless you have an API Key for Mapbox.
